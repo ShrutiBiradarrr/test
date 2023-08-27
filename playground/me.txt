@@ -1,0 +1,5 @@
+{{#user}}
+Name: Shruti Biradar
+Skills: HTML, CSS, JS, React.js, Node.js, Express.js, MongoDB
+Email: shruti.biradar818@gmail.com
+{{/user}}
